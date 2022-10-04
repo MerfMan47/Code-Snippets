@@ -1,0 +1,1 @@
+This eight line piece of code is used to generate Pascal's Triangle. Pascal's Triangle is a mathematical array commonly used to expand binomials and also illustrates a normal distribution probability pattern where each term is a sum of the one or two integers directly superior to it.
